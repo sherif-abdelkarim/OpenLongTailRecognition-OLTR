@@ -20,6 +20,8 @@ Further information please contact [Zhongqi Miao](mailto:zhongqi.miao@berkeley.e
 ## Requirements
 * [PyTorch](https://pytorch.org/) (version >= 0.4.1)
 * [scikit-learn](https://scikit-learn.org/stable/)
+* [tqdm](https://pypi.org/project/tqdm/)
+* [matplotlib] (https://matplotlib.org/users/installing.html)
 
 ## Data Preparation
 
